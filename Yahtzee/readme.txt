@@ -12,6 +12,6 @@
   game I decided to keep them in the Domain Model. Since I think this way I make it
   visible that the game may have different variants. 
   In real life we usually have a rules-book or rules-paper where we find the different 
-  variants, that's why for now I decided to keep the variants in the Rules class. Later 
+  variants, that's why for now I decided to keep the variants in the SetOfRules. Later 
   in the Implementation, we would have a Rule package with a RuleFactory and for every 
   variant a separate Class
